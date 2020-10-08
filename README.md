@@ -9,6 +9,6 @@ For each algorithm, the algorithm will use predifined training and validation/te
 Defines a class to create a bayes classifier given training/test image files, and thier metadata (size).
 Interesting variables to experiment with include the Laplace smoothing constant, k.
 
-## bayesAlgo.py
+## perceptronAlgo.py
 Defines a class to create a perceptron classifier given training/test image files, and thier metadata (size/feature enumeration definitions).
 Interesting variables to experiment with include the weight incrementing threshold constant.
